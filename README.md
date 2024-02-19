@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nathanael Koch
-- 👀 I’m interested in creating databases and .
+- 👀 I’m interested in creating databases and software.
 - 🌱 I’m currently learning SQL, Phython and JavaScript.
 - ⚡ I study Software Development at Tallinna Polütehnikum.
 - 💞️ I’m looking for a practice.
