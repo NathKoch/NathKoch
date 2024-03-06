@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nathanael Koch
 - 👀 I’m interested in creating databases and software.
-- 🌱 I’m currently learning SQL, PHP, Python, HTML, CSS, and JavaScript.
+- 🌱 I’m currently learning SQL, PHP, Python, HTML 5, CSS 3, and JavaScript.
 - ⚡ I study Software Development and Full Stack Web Development at Tallinna Polütehnikum.
 - 💞️ I’m looking for a practice.
 - 📫 How to reach me: kochnathn@gmail.com
